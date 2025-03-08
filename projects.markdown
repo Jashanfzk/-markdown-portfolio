@@ -2,13 +2,12 @@
 
 Here are some of the projects I've worked on:
 
-## 1. Personal Portfolio Website
-- **Technologies used**: HTML, CSS, JavaScript
-- Built a responsive portfolio website to showcase my skills, projects, and experience.
-
-## 2. Task Management Application
-- **Technologies used**: C#, MySQL, JavaScript
-- A web application for managing tasks, including features like CRUD operations and user authentication.
+## 1. Class assignments
+- **Technologies used**: HTML, CSS, JavaScript,C# and my SQL.
+- 
+## 2. Shuffle card game
+- **Technologies used**: CSS,HTML JavaScript
+A web application for playing a card game where cards shuffle at a certain speed, and the player must identify and select the odd one out, which was chosen at the start.
 
 
 [Go back to home](index.markdown) | [Contact me](contact.markdown)
